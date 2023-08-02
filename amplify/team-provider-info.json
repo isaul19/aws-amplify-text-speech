@@ -16,7 +16,8 @@
         "amplifytexttospeech373b176e": {}
       },
       "predictions": {
-        "speechGeneratordfbffb2f": {}
+        "speechGeneratordfbffb2f": {},
+        "transcriptione7d6ff62": {}
       }
     }
   }
